@@ -1,0 +1,41 @@
+[
+    {
+        "projectId":1,
+        "projectName":"soil movement",
+        "projectType": "engineering",
+        "manager":"John Snow",
+        "deadline": "2022/01/01",
+        "managerEmail":"john.snow@gmail.com",
+        "img":"",
+        "contact":"9849485545"
+    }, 
+    {
+        "projectId":2,
+        "projectName":"Coca-cola rebranding",
+        "projectType": "marketing",
+        "manager":"Will Smith",
+        "deadline": "2022/02/02",
+        "managerEmail":"will.smith@gmail.com",
+        "img":"",
+        "contact":"42343434545"
+    }, 
+    {
+        "projectId":3,
+        "projectName":"Shopping mall building",
+        "projectType": "engineering",
+        "manager":"Aria Stark",
+        "deadline": "2022/03/03",
+        "managerEmail":"arai.stark@gmail.com",
+        "img":"",
+        "contact":"12228434545"
+    },{
+        "projectId":4,
+        "projectName":"E-store launching",
+        "projectType": "marketing",
+        "manager":"Hayk Chillingaryan",
+        "deadline": "2022/04/04",
+        "managerEmail":"hayk@gmail.com",
+        "img":"",
+        "contact":"12228434545"
+    }
+]
